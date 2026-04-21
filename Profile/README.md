@@ -11,3 +11,5 @@ through GitHub Actions, enabling automated build, test, and deployment workflows
 
 Nano-Core is based entirely on popular open-source technologies and is fully MIT licensed, giving you complete access to all source code and the freedom to extend 
 it as needed.
+
+Enjoy 🎉🎉
