@@ -1,4 +1,4 @@
-# ✨ Welcome to Nano-Core
+# ✨ Welcome
 
 Nano-Core is a full system framework designed to streamline the development and deployment of modern cloud-native applications. It brings together application 
 frameworks, infrastructure templates, CI/CD pipelines, secrets management, centralized logging, and other supporting capabilities into a unified approach for 
